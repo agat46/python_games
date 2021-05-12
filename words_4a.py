@@ -18,6 +18,6 @@ word_list = [
     "kielce",
     "rzeszów",
     "gliwice",
-    "kielce",
+    "konin",
     "olsztyn",
     ]
